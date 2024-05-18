@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">👩‍💻  I’m Pouya Ebrahimi, a passionate programmer with a focus on AI, data science, and data analysis. I love diving into complex problems, crunching data, and creating intelligent solutions.</h3>
 
@@ -26,5 +26,7 @@
   <a href="mailto:pouya8ebrahimi@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <!-- Add other social icons here if needed -->
+  <a href="https://linkedin.com/in/poumi008">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 </div>
